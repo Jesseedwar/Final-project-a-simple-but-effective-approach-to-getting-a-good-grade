@@ -19,7 +19,7 @@ Setup Instructions
 2. Random ELO data will generate using std::vector<int> generateRandomELOData(size_t size); to simulate a certain amount of chess games played.
 
 Running The Program: Quick Sort and Merge Algo
-Enter the number corresponding to the option you'd like to execute
+  Enter the number corresponding to the option you'd like to execute
 1. Quick Sort: Parses and sorts data using Quick Sort, displaying the time taken.
 2. Merge Sort: Parses and sorts data using Merge Sort, displaying the time taken.
 3. Scalability Analysis: Compares performance of both algorithms on datasets of sizes 100, 1,000, 10,000, and 100,000.
