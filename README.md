@@ -11,7 +11,7 @@ Measure and Compare Space Complexity: This calculates the memory usage of both a
 Analyze and Visualize Performance On Different Input Types: This evaluates the sorting performance of random, sorted, and reversed datasets up to 1,000,000 elements.
 Save Quick Sort and Merge Sort Results to CSV: This saves the sorted results and execution metrics into a CSV file.
 
-Required Libraries
+Used Libraries
 <iostream>, <fstream>, <sstream>, <vector>, <string>, <chrono>, <random>, <cmath>, <algorithm>
 
 Setup Instructions
