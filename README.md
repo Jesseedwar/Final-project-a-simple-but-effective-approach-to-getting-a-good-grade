@@ -12,7 +12,7 @@ Analyze and Visualize Performance On Different Input Types: This evaluates the s
 Save Quick Sort and Merge Sort Results to CSV: This saves the sorted results and execution metrics into a CSV file.
 
 Used Libraries
-<iostream>, <fstream>, <sstream>, <vector>, <string>, <chrono>, <random>, <cmath>, <algorithm>
+iostream, fstream, sstream, vector, string, chrono, random, cmath, algorithm
 
 Setup Instructions
 1.Download the source code to your machine by cloning the repository or downloading the .zip file.
