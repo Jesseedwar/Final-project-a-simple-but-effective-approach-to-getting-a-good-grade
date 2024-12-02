@@ -1,4 +1,4 @@
-# Final-project-a-simple-but-effective-approach-to-getting-a-good-grade
+# Merge-Sort-and-Quick-Sort-a-Speed-Test-and-Comparison
 Summary
 This program provides performance and space complexity analysis for Quick Sort and Merge Sort algorithms. 
 Users can test the algorithms on different dataset sizes, analyze scalability, and visualize performance on various input types (e.g., random, sorted, and reversed datasets). Results can also be saved to a CSV file for further analysis.
