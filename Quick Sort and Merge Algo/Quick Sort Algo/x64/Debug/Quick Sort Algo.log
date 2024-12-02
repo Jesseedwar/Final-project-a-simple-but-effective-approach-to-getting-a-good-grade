@@ -1,0 +1,7 @@
+﻿  Quick Sort Algo.cpp
+C:\Users\Lenovo Owner\source\repos\Quick Sort Algo\Quick Sort Algo\Quick Sort Algo.cpp(99,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo Owner\source\repos\Quick Sort Algo\Quick Sort Algo\Quick Sort Algo.cpp(102,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo Owner\source\repos\Quick Sort Algo\Quick Sort Algo\Quick Sort Algo.cpp(125,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo Owner\source\repos\Quick Sort Algo\Quick Sort Algo\Quick Sort Algo.cpp(133,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo Owner\source\repos\Quick Sort Algo\Quick Sort Algo\Quick Sort Algo.cpp(153,36): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  Quick Sort Algo.vcxproj -> C:\Users\Lenovo Owner\source\repos\Quick Sort Algo\x64\Debug\Quick Sort Algo.exe
