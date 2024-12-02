@@ -24,8 +24,7 @@ Running The Program: Quick Sort and Merge Algo
 3. Scalability Analysis: Compares performance of both algorithms on datasets of sizes 100, 1,000, 10,000, and 100,000.
 4. Measure and Compare Space Complexity: Displays memory usage of Quick Sort and Merge Sort for different dataset sizes.
 5. Analyze and Visualize Performance on Different Input Types: Measures sorting performance on random, sorted, and reversed datasets.
-6. Save Results to CSV: Outputs sorted results and metrics to a CSV file
-
+   
 Running The Program: Analyze and visualize
 1. Run the file seperatly from Quick Sort and Merge Algo as it will cause issues with double main
 
