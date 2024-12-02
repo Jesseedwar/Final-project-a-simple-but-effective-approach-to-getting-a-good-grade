@@ -1,10 +1,12 @@
-#include
-#include
-#include
-#include
-#include
-#include
-#include
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <vector>
+#include <string>
+#include <chrono>
+#include <random>
+#include <stack>
+#include <algorithm>
 
 // Function to generate random ELO data for 3. Scalability Analysis
 std::vector generateRandomELOData(size_t size) {
